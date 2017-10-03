@@ -1,2 +1,2 @@
 # replica
-Node-Replicaton-Algorithm for uspeak
+This is the Node-Replicaton-Algorithm for uspeak
